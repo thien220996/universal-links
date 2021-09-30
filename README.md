@@ -6,6 +6,6 @@ This repo contains the **Single Board Computer** website app developed for the *
 
 You can easily deploy your own version of the web app for free to Heroku by clicking one of the following buttons:
 
-| Starter | Final |
+| Starter | Master |
 |---------|-------|
 | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thien220996/universal-links/tree/starter) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thien220996/universal-links/tree/master) |
